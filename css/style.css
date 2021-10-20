@@ -138,7 +138,7 @@ a.btn.dark:focus {
 .container-top{
     width: 90%;
     margin: 0 auto;
-    background-color: tomato;
+    /* background-color: tomato; */
     height: 100%;
 }
 
@@ -165,10 +165,22 @@ a.btn.dark:focus {
 .title{
     margin: 20px 0 20px 0;
     line-height: 50px;
-    font-size: 2.5em;
+    font-size: 3em;
 
 }
 
+.testo-paragrafo{
+    width: 90%;
+    font-size: 1.3em;
+    margin-top: 1em;
+    line-height: 1.2em;
+}
+
+.title-banner{
+    font-size: 2em;
+    line-height: 1.2em;
+
+}
 /* riga-main */
 .colonna-text-main{
     width: 40%;
@@ -190,8 +202,6 @@ a.btn.dark:focus {
     margin-top: 5em;
 }
 
-.big{
-    width: auto;
-    height: 500px;
-    background-size: cover;
+.color-btn-banner{
+background-color: #7983F5;
 }
