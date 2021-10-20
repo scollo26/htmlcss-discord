@@ -124,3 +124,44 @@ a.btn.dark:active,
 a.btn.dark:focus {
     color: #265ee8;
 }
+
+
+/* inizio main */
+
+.container{
+    margin: 0 auto;
+    width: 60%;
+    height: 100%;
+    background-color: yellow;
+}
+
+.container-top{
+    width: 100%;
+    height: 80%;
+    background-color: tomato;
+}
+
+.colonna-img{
+    width: 60%;
+    height: 100%;
+    padding: 5em 1em 6em 6em;
+}
+
+.marg-col-s
+
+.img-main{
+    max-width: 100%;
+    background-size: cover;
+    object-fit: cover;
+    text-align: center;
+    
+}
+
+.colonna-text{
+    width: 27%;
+    padding: 7em 6em 6em 1em;
+    text-align: left;
+}
+
+
+
