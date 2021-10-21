@@ -142,7 +142,7 @@ a.btn.dark:focus {
 }
 
 .colonna-img{
-    max-width: 100%;
+    width: 50%;
     padding: 6em 3em 0em 0em;
 }
 
@@ -156,7 +156,8 @@ a.btn.dark:focus {
 
 .colonna-text-top{
     width: 40%;
-    padding: 5.7em 6em 6em 3em;
+    padding: 5.7em 10em 6em 3em;
+    margin-left: 40px;
     text-align: left;
 }
 
@@ -183,14 +184,13 @@ a.btn.dark:focus {
 /* riga-main */
 .colonna-text-main{
     width: 40%;
-    padding: 9em 0em 0em 6em;
+    padding: 8em 0em 0em 0em;
     text-align: left;
 }
 
 .colonna-img-main{
-    max-width: 100%;
-    height: 100%;
-    padding: 8.5em 0em 6em 7em;
+    max-width: 50%;
+    padding: 6.5em 0em 6em 0em;
 }
 .ridimensiona{
     width: 100%;
